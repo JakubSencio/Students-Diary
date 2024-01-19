@@ -16,23 +16,26 @@ The "Edit" button allows the user to modify information about a selected student
 Refresh Button: 
 The "Refresh" button is used to reload and display the current state of the student diary. This is useful in case the user makes changes and wants to see the updated data.
 
+![image](https://github.com/JakubSencio/Students-Diary/assets/116436495/f596d0d2-bb2d-4f3a-9ac5-a20c3887d6c2)
+
+The option to add a student opens in a separate window, similar to the one above.
 
 
 
+This project helped me understand the utilization of these concepts in the backend world.<br>
+Serialization - Serializing data for storage or transmission.<br>
+Deserialization - Deserializing data to convert it back to its original format.<br>
+Refactoring - Restructuring and optimizing code without changing its external behavior.<br>
+LINQ (Language-Integrated Query) - Querying and manipulating data within code.<br>
+Inheritance - Creating new classes based on existing ones.<br>
+Polymorphism - Using objects of different types through a common interface or base class.<br>
+Abstraction - Defining simplified and generalized representations of objects.<br>
+Encapsulation - Restricting access to an object's internal state.<br>
+Composition - Building complex objects from simpler ones.<br>
+Delegates - Representing and invoking methods as objects.<br>
+Events - Implementing the observer pattern to handle notifications.<br>
+Asynchronicity - Performing tasks concurrently without blocking the main program.<br>
 
 
-This project helped me understand the utilization of these concepts in the backend world.
-Serialization - Serializing data for storage or transmission.
-Deserialization - Deserializing data to convert it back to its original format.
-Refactoring - Restructuring and optimizing code without changing its external behavior.
-LINQ (Language-Integrated Query) - Querying and manipulating data within code.
-Inheritance - Creating new classes based on existing ones.
-Polymorphism - Using objects of different types through a common interface or base class.
-Abstraction - Defining simplified and generalized representations of objects.
-Encapsulation - Restricting access to an object's internal state.
-Composition - Building complex objects from simpler ones.
-Delegates - Representing and invoking methods as objects.
-Events - Implementing the observer pattern to handle notifications.
-Asynchronicity - Performing tasks concurrently without blocking the main program.
-
-
+ToDo:
+- Statistic of Students!

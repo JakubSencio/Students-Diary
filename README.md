@@ -15,3 +15,24 @@ The "Edit" button allows the user to modify information about a selected student
 
 Refresh Button: 
 The "Refresh" button is used to reload and display the current state of the student diary. This is useful in case the user makes changes and wants to see the updated data.
+
+
+
+
+
+
+This project helped me understand the utilization of these concepts in the backend world.
+Serialization - Serializing data for storage or transmission.
+Deserialization - Deserializing data to convert it back to its original format.
+Refactoring - Restructuring and optimizing code without changing its external behavior.
+LINQ (Language-Integrated Query) - Querying and manipulating data within code.
+Inheritance - Creating new classes based on existing ones.
+Polymorphism - Using objects of different types through a common interface or base class.
+Abstraction - Defining simplified and generalized representations of objects.
+Encapsulation - Restricting access to an object's internal state.
+Composition - Building complex objects from simpler ones.
+Delegates - Representing and invoking methods as objects.
+Events - Implementing the observer pattern to handle notifications.
+Asynchronicity - Performing tasks concurrently without blocking the main program.
+
+
